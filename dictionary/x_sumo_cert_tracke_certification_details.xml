@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Certification Details" max_length="40" name="x_sumo_cert_tracke_certification_details" type="collection">
+        <element label="Base Version" max_length="32" name="base_version" reference="x_sumo_cert_tracke_version_table" type="reference"/>
+        <element label="Certification Name" max_length="32" name="certification_name" reference="x_sumo_cert_tracke_certification_master_list" type="reference"/>
+        <element label="Latest Version" max_length="32" name="latest_version" reference="x_sumo_cert_tracke_version_table" type="reference"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice/>
+        </element>
+        <element label="SuMO Name" max_length="32" name="sumo_name" reference="sys_user" type="reference"/>
+        <element label="Valid Till" max_length="40" name="valid_till" type="string"/>
+        <index name="index">
+            <element name="sumo_name"/>
+        </index>
+        <index name="index2">
+            <element name="base_version"/>
+        </index>
+        <index name="index3">
+            <element name="certification_name"/>
+        </index>
+        <index name="index4">
+            <element name="latest_version"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="base_version" label="Base Version" language="en" table="x_sumo_cert_tracke_certification_details">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>base_version</element>
+            <help/>
+            <hint/>
+            <label>Base Version</label>
+            <language>en</language>
+            <name>x_sumo_cert_tracke_certification_details</name>
+            <plural>Base Versions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Karthik.Kannan</sys_created_by>
+            <sys_created_on>2018-05-31 20:42:49</sys_created_on>
+            <sys_id>1e24c5a7db9edb00b75178b5ae96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Base Version</sys_name>
+            <sys_package display_value="Cert Tracker" source="x_sumo_cert_tracke">67b71ca3db5edb00b75178b5ae961938</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cert Tracker">67b71ca3db5edb00b75178b5ae961938</sys_scope>
+            <sys_update_name>sys_documentation_x_sumo_cert_tracke_certification_details_base_version_en</sys_update_name>
+            <sys_updated_by>Karthik.Kannan</sys_updated_by>
+            <sys_updated_on>2018-05-31 20:42:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Version Table" max_length="40" name="x_sumo_cert_tracke_version_table" type="collection">
+        <element label="Active From" max_length="40" name="active_from" type="glide_date"/>
+        <element label="Active Till" max_length="40" name="active_till" type="glide_date"/>
+        <element label="Version Name" max_length="40" name="version_name" type="string"/>
+    </element>
+</database>
