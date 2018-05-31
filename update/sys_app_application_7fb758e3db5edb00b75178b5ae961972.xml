@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Cert Tracker</name>
+        <order/>
+        <roles>x_sumo_cert_tracke.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>Karthik.Kannan</sys_created_by>
+        <sys_created_on>2018-05-31 17:28:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7fb758e3db5edb00b75178b5ae961972</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Cert Tracker</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Cert Tracker" source="x_sumo_cert_tracke">67b71ca3db5edb00b75178b5ae961938</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cert Tracker">67b71ca3db5edb00b75178b5ae961938</sys_scope>
+        <sys_update_name>sys_app_application_7fb758e3db5edb00b75178b5ae961972</sys_update_name>
+        <sys_updated_by>Karthik.Kannan</sys_updated_by>
+        <sys_updated_on>2018-05-31 17:28:46</sys_updated_on>
+        <title>Cert Tracker</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
