@@ -31,6 +31,8 @@
         <element>sumo_name</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
         <internal_type display_value="Reference">reference</internal_type>
         <mandatory>false</mandatory>
         <max_length>32</max_length>
@@ -52,15 +54,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>Karthik.Kannan</sys_created_by>
         <sys_created_on>2018-05-31 20:42:47</sys_created_on>
-        <sys_id>63d3c1a7db9edb00b75178b5ae96194d</sys_id>
+        <sys_id>e4dfecc0dbe3df84b9a0770968961903</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>SuMO Name</sys_name>
         <sys_package display_value="Cert Tracker" source="x_sumo_cert_tracke">67b71ca3db5edb00b75178b5ae961938</sys_package>
         <sys_policy/>
         <sys_scope display_value="Cert Tracker">67b71ca3db5edb00b75178b5ae961938</sys_scope>
         <sys_update_name>sys_dictionary_x_sumo_cert_tracke_certification_details_sumo_name</sys_update_name>
-        <sys_updated_by>Karthik.Kannan</sys_updated_by>
-        <sys_updated_on>2018-05-31 20:42:47</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-07-22 01:33:54</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

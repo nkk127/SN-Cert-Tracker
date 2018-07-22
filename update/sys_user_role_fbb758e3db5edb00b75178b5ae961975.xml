@@ -5,9 +5,11 @@
         <can_delegate>true</can_delegate>
         <description/>
         <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_sumo_cert_tracke.user</name>
+        <scoped_admin>false</scoped_admin>
         <suffix>user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>Karthik.Kannan</sys_created_by>
